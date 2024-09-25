@@ -5,7 +5,7 @@
 - 📫 How to reach me: contact@mimicschest.info
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: All facts are fun when viewed from the correct light
-- Website/blog: [MimicsChest](mimicschest.info)
+- Website/blog: [MimicsChest](https://mimicschest.info)
 
 <!---
 mimicschest/mimicschest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
